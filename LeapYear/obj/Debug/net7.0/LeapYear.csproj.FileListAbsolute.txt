@@ -1,0 +1,15 @@
+/Users/wuke/Projects/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear
+/Users/wuke/Projects/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.deps.json
+/Users/wuke/Projects/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.runtimeconfig.json
+/Users/wuke/Projects/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.dll
+/Users/wuke/Projects/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.pdb
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.csproj.AssemblyReference.cache
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.AssemblyInfoInputs.cache
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.AssemblyInfo.cs
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.csproj.CoreCompileInputs.cache
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.dll
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/refint/LeapYear.dll
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.pdb
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.genruntimeconfig.cache
+/Users/wuke/Projects/LeapYear/LeapYear/obj/Debug/net7.0/ref/LeapYear.dll
