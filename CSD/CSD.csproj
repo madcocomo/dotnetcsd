@@ -15,12 +15,7 @@
     <PackageReference Include="NUnit3TestAdapter" Version="4.4.2" />
     <PackageReference Include="NUnit.Analyzers" Version="3.6.1" />
     <PackageReference Include="coverlet.collector" Version="3.2.0" />
+    <PackageReference Include="NSubstitute" Version="5.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Remove="Mock\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Mock\" />
-  </ItemGroup>
 </Project>

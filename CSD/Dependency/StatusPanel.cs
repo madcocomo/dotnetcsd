@@ -1,7 +1,10 @@
-﻿namespace CSD.Mock
+﻿namespace CSD.Dependency
 {
     public class StatusPanel
     {
+
+        public int Speed { get; }
+
         public bool ThereIsEnoughFuel()
         {
             return false;
@@ -12,11 +15,6 @@
             // Check engine takes a long time to run
             Thread.Sleep(1000 * 100);
             return false;
-        }
-
-        public int GetSpeed()
-        {
-            return -1;
         }
 
         public bool IsReady()

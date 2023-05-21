@@ -1,6 +1,6 @@
-﻿namespace CSD.Mock
+﻿namespace CSD.Dependency
 {
-    public class Gearbox
+    public class Engine
     {
         public bool IsReady()
         {

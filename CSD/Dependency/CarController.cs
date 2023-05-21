@@ -1,4 +1,4 @@
-﻿namespace CSD.Mock
+﻿namespace CSD.Dependency
 {
     public class CarController
     {
@@ -16,7 +16,7 @@
         public void Stop(int halfBrakingPower, Electronics electronics, StatusPanel statusPanel)
         {
             electronics.PushBrakes(halfBrakingPower);
-            if (statusPanel.GetSpeed() > 0)
+            if (statusPanel.Speed > 0)
             {
                 this.Stop(halfBrakingPower, electronics, statusPanel);
             }

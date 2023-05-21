@@ -1,4 +1,4 @@
-﻿namespace CSD.Mock
+﻿namespace CSD.Dependency
 {
     public class Electronics
     {
