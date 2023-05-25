@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SupermarketAPI.Models
+namespace SuperMarketAPI.Models
 {
     [Table("item")]
     public class Item

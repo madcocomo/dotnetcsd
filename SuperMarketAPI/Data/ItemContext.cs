@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SupermarketAPI.Models;
+using SuperMarketAPI.Models;
 using System.Collections.Generic;
 
-namespace SupermarketAPI.Data
+namespace SuperMarketAPI.Data
 {
     public class ItemContext : DbContext
     {

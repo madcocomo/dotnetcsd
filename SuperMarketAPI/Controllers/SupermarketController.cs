@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using SupermarketAPI.Data;
-using SupermarketAPI.Models;
+using SuperMarketAPI.Data;
+using SuperMarketAPI.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace SupermarketAPI.Controllers
+namespace SuperMarketAPI.Controllers
 {
     [ApiController]
     [Route("api")]

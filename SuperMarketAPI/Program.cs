@@ -1,4 +1,4 @@
-﻿using SupermarketAPI.Data;
+﻿using SuperMarketAPI.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -32,4 +32,9 @@ app.UseExceptionHandler("/error");
 app.MapControllers();
 
 app.Run();
+
+public partial class Program { }
+
+
+
 

@@ -2,7 +2,7 @@
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace SupermarketAPI
+namespace SuperMarketAPI
 {
     [Serializable]
     internal class SupermarketException : Exception
